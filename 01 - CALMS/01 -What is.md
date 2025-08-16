@@ -100,7 +100,7 @@ Hoje, o CALMS é amplamente usado por:
 
 ---
 
-## 3. Lean
+## 3. Refinar (Lean)
 
 **Definição:** Eliminar desperdícios, focar no que realmente agrega valor, iterar rapidamente e aprender com falhas.([Atlassian][3], [Dev Community Hub][1])
 
@@ -133,7 +133,7 @@ Hoje, o CALMS é amplamente usado por:
 
 ---
 
-## 5. Compartilhamento (Sharing)
+## 5. Compartilhar (Sharing)
 
 **Definição:** Facilitar a troca de conhecimento, transparência, documentação, feedback e aprendizado coletivo.([ManageEngine][5], [Dev Community Hub][1])
 
