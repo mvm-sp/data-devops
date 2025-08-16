@@ -1,9 +1,3 @@
-Claro! Vamos começar com uma **introdução conceitual ao framework CALMS**, incluindo sua origem e como ele se consolidou dentro do movimento **DevOps**, com ênfase nos aspectos históricos e sua evolução prática.
-
----
-
-## Introdução ao Framework CALMS
-
 ### O que é o CALMS?
 
 **CALMS** é um acrônimo que representa cinco pilares fundamentais que sustentam a adoção bem-sucedida de práticas **DevOps** em uma organização:
