@@ -2,11 +2,11 @@
 
 **CALMS** é um acrônimo que representa cinco pilares fundamentais que sustentam a adoção bem-sucedida de práticas **DevOps** em uma organização:
 
-* **C**ultura (Culture)
-* **A**utomação (Automation)
-* **L**ean
-* **M**edição (Measurement)
-* **S**haring (Compartilhamento)
+* **C**ulture (Cultura)
+* **A**utomation (Automação)
+* **L**ean (Refinar)
+* **M**easurement (Medir)
+* **S**haring (Compartilhar)
 
 O CALMS não é um processo, metodologia ou ferramenta, mas sim um **modelo mental ou estrutura de avaliação** (framework) que ajuda empresas a diagnosticar, guiar e implementar a **transformação DevOps**. Ele fornece uma forma de **avaliar maturidade organizacional** e alinhar práticas técnicas com valores culturais e operacionais.
 
@@ -117,7 +117,7 @@ Hoje, o CALMS é amplamente usado por:
 
 ---
 
-## 4. Medição (Measurement)
+## 4. Medir (Measurement)
 
 **Definição:** Coletar métricas e dados para avaliar desempenho, tomar decisões e impulsionar melhorias.([ManageEngine][5], [Dev Community Hub][1], [TechTarget][2])
 
