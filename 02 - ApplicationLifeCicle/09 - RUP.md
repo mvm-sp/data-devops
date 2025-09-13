@@ -28,13 +28,6 @@ Em geral, essas fases demandam esforço e programação diferentes. Para um proj
 **Tabela 1**. Distribuição prevista de esforço e programação para um ciclo de desenvolvimento inicial típico de um projeto de médio tamanho
 
 
-|                | Concepção | Elaboração | Construção | Transição |
-|----------------|-----------|------------|------------|-----------|
-| Esforço        | ~5%       | 20%        | 65%        | 10%       |
-| Programação    | 10%       | 30%        | 50%        | 10%       |
-
-**Tabela 1**. Distribuição prevista de esforço e programação para um ciclo de desenvolvimento inicial típico de um projeto de médio tamanho
-
 O RUP usa templates que descrevem o que é esperado no resultado de cada fase ou cada iteração (IBM, 2004), identificando as competências e responsabilidades (arquiteto, analista, testador,...), as atividades e os artefatos.
 
 Para descrever as atividades (codificação de uma classe, integração de sistemas,...) o RUP faz o uso de manuais (guidelines), que descrevem técnicas e heurísticas; e de “Mentores de Ferramentas”, que explicam o uso da ferramenta para executar a atividade. Os artefatos de cada fase (documentos, modelos, códigos, etc.) são criados, juntamente com templates e exemplos, para melhor entendimento da equipe e do cliente (ver **Figura 3**)
