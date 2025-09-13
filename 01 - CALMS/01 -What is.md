@@ -1,5 +1,5 @@
 ### O que é o CALMS?
-
+--------------------------------
 **CALMS** é um acrônimo que representa cinco pilares fundamentais que sustentam a adoção bem-sucedida de práticas **DevOps** em uma organização:
 
 * **C**ulture (Cultura)
