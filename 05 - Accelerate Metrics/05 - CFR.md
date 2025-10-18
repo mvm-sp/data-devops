@@ -10,7 +10,7 @@ Em fórmula simples:
 
 ```math
 
-{CFR}={\frac{Número\ de\ deploys\ com\ falha} {correção}}
+{CFR}={\frac{Número\ de\ deploys\ com\ falha} {correção}}\times{100\%}
 
 ```
 
