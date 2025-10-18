@@ -5,9 +5,14 @@
 
 Também chamada “Change Fail Percentage”. Mede a **porcentagem de mudanças (deploys) que causam falha no ambiente de produção**, ou seja, resultam em serviço degradado, incidentes, rollback, hot fix, etc. ([Bookey][1])
 Em fórmula simples:
-[
-\text{CFR} = \frac{\text{Número de deploys com falha / correção}}{\text{Número total de deploys}} \times 100%
-]
+
+
+
+```math
+
+{CFR}={\frac{Número\ de\ deploys\ com\ falha} {correção}}
+
+```
 
 ### 5.2 Por que importa
 
