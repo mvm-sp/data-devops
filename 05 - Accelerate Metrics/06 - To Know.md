@@ -31,6 +31,16 @@
 * Métricas são parte de um sistema maior: cultura, arquitetura, práticas técnicas, ferramentas, feedback contínuo. Não são “plug‑and‑play”.
 
 ---
+## Sugesões de Metas
+
+| Métrica      | Equipes de Elite |
+| ------------ | ---------------- |
+| DF (Deploys) | Vários por dia   |
+| LTTC         | < 1 hora         |
+| MTTR         | < 1 hora         |
+| CFR          | 0% a 15%         |
+
+---
 
 
 
