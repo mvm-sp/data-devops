@@ -1,4 +1,7 @@
-Claro! Vamos a fazer um **estudo detalhado** sobre as quatro métricas principais apresentadas em Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations (de Nicole Forsgren, Jez Humble e Gene Kim) — com definições, porque são importantes, como medir, benchmarks, boas práticas para melhoria, e armadilhas comuns. Vou usar os termos originais: **Deployment Frequency (DF)**, **Lead Time to Changes (LTTC)**, **Mean Time to Recovery (MTTR)** e **Change Failure Rate (CFR)**.
+### Metricas Accelerate
+--------------------------------
+
+Neste módulo, falaremos sobre as quatro métricas principais apresentadas em Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations (de Nicole Forsgren, Jez Humble e Gene Kim) — com definições, porque são importantes, como medir, benchmarks, boas práticas para melhoria, e armadilhas comuns. Vou usar os termos originais: **Deployment Frequency (DF)**, **Lead Time to Changes (LTTC)**, **Mean Time to Recovery (MTTR)** e **Change Failure Rate (CFR)**.
 
 ---
 
