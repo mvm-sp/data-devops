@@ -237,7 +237,7 @@ node scanner.js
 
 ---
 
-##  **Resumo **
+##  **Resumo**
 
 | Tipo de Teste            | Foco Principal                                 | Automação | Ferramentas Comuns                 |
 | ------------------------ | ---------------------------------------------- | --------- | ---------------------------------- |
