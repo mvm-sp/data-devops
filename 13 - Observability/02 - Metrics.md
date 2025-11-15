@@ -13,7 +13,7 @@
 |                             | Custo por Recurso                    | Gastos agregados por cluster, container, VM, job e serviços cloud.                          |
 |                             | Limite de Throughput                | Limites atingidos em streaming, filas e tópicos.                                            |
 |                             | Temperatura de Serviços              | Indicadores térmicos e throttling em serviços gerenciados.                                  |
-|-----------------------------|--------------------------------------|---------------------------------------------------------------------------------------------|
+||||
 | **Aplicação / Pipeline**    | Latência de Pipeline                 | Tempo de execução total de cada DAG/job.                                                    |
 |                             | Latência por Etapa                   | Tempo de execução por tarefa (task run).                                                    |
 |                             | Taxa de Falhas                       | Percentual de jobs ou etapas que falharam.                                                  |
