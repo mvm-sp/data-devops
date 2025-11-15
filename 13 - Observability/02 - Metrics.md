@@ -24,7 +24,7 @@
 |                             | SLA de Execução                      | Comparação entre tempos reais e esperados do pipeline.                                      |
 |                             | Integridade de Conexões              | Erros de conexão com bancos, APIs, DWs, sistemas externos.                                  |
 |                             | Utilização de Workers                | Quantidade de workers ocupados vs. livres (Airflow, Dagster, Kubernetes).                   |
-|-----------------------------|--------------------------------------|---------------------------------------------------------------------------------------------|
+||||
 | **Dados**                   | Freshness (Atualidade)              | Tempo desde a última atualização dos dados.                                                 |
 |                             | Volume de Dados                      | Quantidade de linhas/arquivos ingeridos por hora/dia.                                       |
 |                             | Data Drift                           | Mudança nas distribuições estatísticas ao longo do tempo.                                   |
@@ -35,7 +35,7 @@
 |                             | Consistência entre Tabelas           | Divergências entre tabelas upstream e downstream.                                           |
 |                             | Qualidade de Dados (DQ Score)        | Métrica agregada baseada em regras de qualidade.                                            |
 |                             | Linhagem dos Dados                   | Dependências entre tabelas e impacto de alterações.                                         |
-|-----------------------------|--------------------------------------|---------------------------------------------------------------------------------------------|
+||||
 | **Negócios**                | SLA/SLO de Dados                     | Atendimento a prazos, qualidade e disponibilidade acordados.                                |
 |                             | KPIs de Domínio                      | Indicadores específicos (pedidos, clientes, eventos, faturamento).                          |
 |                             | Consumo de Dados                     | Quem usa, com que frequência, e quais datasets são mais críticos.                           |
