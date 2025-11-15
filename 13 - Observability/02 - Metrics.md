@@ -1,7 +1,6 @@
 
 # Tabela de Métricas por Camada de Observabilidade em Engenharia de Dados
 
-```markdown
 | Camada                       | Métrica / Indicador                  | Descrição                                                                                   |
 |-----------------------------|--------------------------------------|---------------------------------------------------------------------------------------------|
 | **Infraestrutura**          | Uso de CPU                           | Percentual de processamento usado por clusters, VMs, nodes ou containers.                   |
@@ -41,13 +40,9 @@
 |                             | KPIs de Domínio                      | Indicadores específicos (pedidos, clientes, eventos, faturamento).                          |
 |                             | Consumo de Dados                     | Quem usa, com que frequência, e quais datasets são mais críticos.                           |
 |                             | Custos Operacionais por Pipeline     | Custo estimado por execução diária/mensal.                                                  |
-|                             | ROI do Pipeline                      | Retorno financeiro/operacional gerado por fluxo de dados.                                   |
+|                             | ROI do Pipeline                      | Retorno financeiro/operacional gerado por fluxo de dados.                                  |
 |                             | Indicadores de Risco                 | Probabilidade de falha, impacto em áreas críticas do negócio.                               |
 |                             | Confiabilidade do Dado               | Percepção das áreas usuárias sobre a confiabilidade dos datasets.                           |
 |                             | Aderência a Governança               | Cumprimento de políticas de auditoria, privacidade e compliance.                            |
 |                             | Disponibilidade de Dados             | Tempo em que os dados ficaram acessíveis para uso.                                          |
 |                             | Tempo de Resposta a Incidentes      | Velocidade na investigação e resolução de incidentes relacionados a dados.                  |
-```
-
----
-
