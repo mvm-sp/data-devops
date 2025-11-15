@@ -299,7 +299,7 @@ pipeline {
 
 Copie/cole este bloco em um renderer que suporte Mermaid (ex.: VSCode + extensão, GitLab, GitHub com preview mermaid):
 
-```mermaid
+```shell
 flowchart TD
   A[Developer push para main] --> B[GitHub Actions: checkout]
   B --> C[Setup Terraform & AWS Credentials]
