@@ -1,5 +1,5 @@
 
-# **Estudo Completo sobre DataOps**
+# **DataOps**
 
 ## **Introdução ao DataOps**
 
