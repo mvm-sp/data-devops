@@ -141,7 +141,7 @@ Development → Staging → Production.
 
 ---
 
-## 6. **KPIs e Métricas em DataOps**
+## **KPIs e Métricas em DataOps**
 
 ### **Indicadores Operacionais**
 
